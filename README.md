@@ -1,5 +1,5 @@
-### Rodrigo's profile
-
+![](https://hit.yhype.me/github/profile?user_id=22945172)
+<h2> Rodrigo's profile </h2>
 <p>
 <h3>Experience</h3>
 <ul>
@@ -28,4 +28,3 @@
 </a>
 </p>
 </p>
-![](https://hit.yhype.me/github/profile?user_id=22945172)
