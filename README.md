@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=22945172)
-<h2> Rodrigo's profile </h2>
+<h2> Rodrigo's profile 👋 </h2>
 
 <p>
 <h3>Resume</h3>
