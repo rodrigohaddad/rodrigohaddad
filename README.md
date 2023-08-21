@@ -1,5 +1,11 @@
 ![](https://hit.yhype.me/github/profile?user_id=22945172)
 <h2> Rodrigo's profile </h2>
+
+<p>
+<h3>Resume</h3>
+As you can guess, my name is Rodrigo and here you can find some of my programming projects. I hold a B.Sc. in Computer and Eletronics Engineering at UFRJ and a M.Sc Systems and Computer Engineering PESC/COPPE in complex networks. I'm interested in topics such as artificial intelligence, big data, data analysis and optimization.
+</p>
+  
 <p>
 <h3>Experience</h3>
 <ul>
