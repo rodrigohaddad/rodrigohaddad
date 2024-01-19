@@ -9,7 +9,7 @@ As you can guess, my name is Rodrigo and here you can find some of my programmin
 <p>
 <h3>Experience</h3>
 <ul>
-<li><em>Data Engineer at <a href="https://pagonxt.com/">PagoNxt</a></em> (May 2022 - Currently).<br /></li>
+<li><em>Data Engineer at <a href="https://grupoboticario.com.br/">Boticário Group</a></em> (May 2022 - Currently).<br /></li>
 <li><em>Data Engineer at <a href="https://stone.com.br/">Stone Payments</a></em> (September 2021 - May 2022).<br /></li>
 <li><em>Graduate Researcher at <a href="https://land.ufrj.br/">LAND UFRJ</a></em> (March 2021 - May 2023).<br /></li>
 <li><em>Software Enginner at <a href="https://pareto.io/">Pareto</a></em> (August 2019 - September 2021).<br /></li>
